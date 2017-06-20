@@ -617,7 +617,7 @@
     <mapsource name='Tableau' />
   </mapsources>
   <worksheets>
-    <worksheet name='Sheet 1'>
+    <worksheet name='County Map'>
       <table>
         <view>
           <datasources>
@@ -686,7 +686,7 @@
     </worksheet>
   </worksheets>
   <windows source-height='30'>
-    <window class='worksheet' maximized='true' name='Sheet 1'>
+    <window class='worksheet' maximized='true' name='County Map'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -724,7 +724,7 @@
     </window>
   </windows>
   <thumbnails>
-    <thumbnail height='384' name='Sheet 1' width='384'>
+    <thumbnail height='384' name='County Map' width='384'>
       iVBORw0KGgoAAAANSUhEUgAAAYAAAAGACAYAAACkx7W/AAAACXBIWXMAAAsTAAALEwEAmpwY
       AAAgAElEQVR4nOx9aZPbyo4sqF292D7//w/OnDMzYfemXXwf+oJOpRKoKkltt++7iOhokawF
       hUICqI3s/uu//qu3Suq6zkaj0dn9vu+t7/uzZ33fW9d1Z/f8/2g0kmkiitJy/ZjucDiEfHP+
